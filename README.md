@@ -1,5 +1,13 @@
-# I'm Diego
-### Hi there <img src="https://github.com/DPLATA/DPLATA/blob/main/waving_hand.gif" width="30px">
+# Hi there <img src="https://github.com/DPLATA/DPLATA/blob/main/waving_hand.gif" width="30px">, I'm Diego
+
+My name is Diego Plata; I'm a software engineer passionate for DevOps and currently working as software tester. I'm from México and you can find me on , or on .
+
+Here you will find information about me code repos for present and past project in which I am or have practiced my software skills. You'll find that most of them are web based development, testing or DevOps related which are topics I am passionate about.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
+I'm also building a personal blog on DEV.to so I'll be posting those links in the near future.
 
 [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DPLATA)](https://github.com/DPLATA/github-readme-stats)
 
