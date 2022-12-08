@@ -1,16 +1,28 @@
 # Hi there <img src="https://github.com/DPLATA/DPLATA/blob/main/waving_hand.gif" width="30px">, I'm Diego
 
-My name is Diego Plata; I'm a software engineer passionate for DevOps and currently working as software tester. <!--I'm from México and you can find me on , or on .-->
+My name is Diego Plata; I'm a freelance software engineer. <!--I'm from México and you can find me on , or on .-->
 
-Here you will find information about me code repos for present and past project in which I am or have practiced my software skills. You'll find that most of them are web based development, testing or DevOps related which are topics I am passionate about.
+Here you will find information about me, code repos for present and past projects, blog posts and some other stuff. Most of the things you'll find here are ML, testing, DevOps, OSS related which are topics I am passionate about. Have a look!
 
-- 🔭 I’m currently working on: Obey-the-testing-goat-repo, My-static-site-repo, and DPLATA repo which holds this personal README file for my github profile (is constantly evolving).
-- 🌱 I’m currently learning: TDD, frontend development HTML CSS Javascript Vue, Algorithms, Python Django and Flask frameworks.
+## Tech stack 
 
-I'm also building a personal blog on DEV.to so I'll be posting those links in the near future.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+## Latest blog posts
+
+## Open source projects
+
+## My stats
 
 [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DPLATA)](https://github.com/DPLATA/github-readme-stats)
 
+## Where to find me
+
+## You like what I do? Consider buying me a coffee, I'll appreciate it 🤜🏼🤛🏼
+
+
+<!--
 [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DPLATA)](https://github.com/DPLATA/github-readme-stats)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=d74614)
@@ -19,6 +31,7 @@ I'm also building a personal blog on DEV.to so I'll be posting those links in th
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2391e6)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=306adf)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=0080FF)
+-->
 
 <!--
 **DPLATA/DPLATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
