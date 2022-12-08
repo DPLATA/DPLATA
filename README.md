@@ -1,6 +1,6 @@
 # Hi there <img src="https://github.com/DPLATA/DPLATA/blob/main/waving_hand.gif" width="30px">, I'm Diego
 
-My name is Diego Plata; I'm a freelance software engineer. <!--I'm from México and you can find me on , or on .-->
+<!--I'm from México and you can find me on , or on  FREELANCE SOFTWARE ENGINEER CONTACT ME IF YOU HAVE ANY WORK √(ALT + V).-->
 
 Here you will find information about me, code repos for present and past projects, blog posts and some other stuff. Most of the things you'll find here are ML, testing, DevOps, OSS related which are topics I am passionate about. Have a look!
 
@@ -9,9 +9,25 @@ Here you will find information about me, code repos for present and past project
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-## Latest blog posts
-
 ## Open source projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+
+## Latest blog posts
 
 ## My stats
 
