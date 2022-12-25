@@ -41,6 +41,7 @@ Here you will find information about me, code repos for present and past project
 ## Where to find me
 
 ## You like what I do? Consider buying me a coffee, I'll appreciate it 🤜🏼🤛🏼
+[Pay Pal profile](https://paypal.me/diegogplatac?country.x=MX&locale.x=es_XC)
 
 
 <!--
