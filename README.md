@@ -41,8 +41,7 @@ Here you will find information about me, code repos for present and past project
 ## Where to find me
 
 ## You like what I do? Consider buying me a coffee, I'll appreciate it 🤜🏼🤛🏼
-[Pay Pal profile](https://paypal.me/diegogplatac?country.x=MX&locale.x=es_XC)
-
+<code><a href="https://paypal.me/diegogplatac?country.x=MX&locale.x=es_XC"><img height="20" src="https://res.cloudinary.com/dzappyypg/image/upload/v1671997877/other_stuff/paypal_t9ko5x.png"></a></code>
 
 <!--
 [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DPLATA)](https://github.com/DPLATA/github-readme-stats)
