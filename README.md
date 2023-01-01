@@ -4,10 +4,17 @@
 
 Here you will find information about me, code repos for present and past projects, blog posts and some other stuff. Most of the things you'll find here are ML, testing, DevOps, OSS related which are topics I am passionate about. Have a look!
 
-## Tech stack 
+## Tech stack
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50">
+</p>
 
 ## Open source projects
 
@@ -24,7 +31,7 @@ Here you will find information about me, code repos for present and past project
   <tbody>
     <tr>
       <td><a href="https://github.com/DPLATA/mexdata"><b>Mex data visualizer</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DPLATA/mexdata?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DPLATA/mexdata?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DPLATA/mexdata?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/DPLATA/mexdata?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DPLATA/mexdata?style=flat-square&labelColor=343b41"/></td>
@@ -41,7 +48,13 @@ Here you will find information about me, code repos for present and past project
 ## Where to find me
 
 ## You like what I do? Consider buying me a coffee, I'll appreciate it 🤜🏼🤛🏼
-<code><a href="https://paypal.me/diegogplatac?country.x=MX&locale.x=es_XC"><img height="20" src="https://res.cloudinary.com/dzappyypg/image/upload/v1671997877/other_stuff/paypal_t9ko5x.png"></a></code>
+
+<p align="left">
+  <a href="https://paypal.me/diegogplatac?country.x=MX&locale.x=es_XC">
+    <img src="https://res.cloudinary.com/dzappyypg/image/upload/v1671997877/other_stuff/paypal_t9ko5x.png" width="50" height="50">
+  </a>
+</p>
+
 
 <!--
 [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DPLATA)](https://github.com/DPLATA/github-readme-stats)
