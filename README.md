@@ -2,7 +2,7 @@
 
 <!--I'm from México and you can find me on , or on  FREELANCE SOFTWARE ENGINEER CONTACT ME IF YOU HAVE ANY WORK √(ALT + V).-->
 
-Here you will find information about me, code repos for present and past projects, blog posts and some other stuff. Most of the things you'll find here are ML, testing, DevOps, OSS related which are topics I am passionate about. Have a look!
+Here you will find information about me, code repos for present and past projects, blog posts and some other stuff. Most of the things you'll find here are ML, testing, DevOps and OSS related which are topics I am passionate about. Have a look!
 
 ## Tech stack
 
