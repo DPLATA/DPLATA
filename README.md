@@ -16,7 +16,7 @@ Here you will find information about me, code repos for present and past project
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50">
 </p>
 
-## Open source projects
+## Projects currently working on
 
 <table>
   <thead align="center">
@@ -35,6 +35,31 @@ Here you will find information about me, code repos for present and past project
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DPLATA/mexdata?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/DPLATA/mexdata?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DPLATA/mexdata?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DPLATA/mexdata_api"><b>Mex data visualizer API</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DPLATA/mexdata_api?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DPLATA/mexdata_api?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/DPLATA/mexdata_api?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DPLATA/mexdata_api?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+## Open source projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
     </tr>
   </tbody>
 </table>
