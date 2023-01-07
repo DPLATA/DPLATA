@@ -74,7 +74,7 @@ Here you will find information about me, code repos for present and past project
 
 ## You like what I do? Consider buying me a coffee, I'll appreciate it 🤜🏼🤛🏼
 
-<p align="left">
+<p align="center">
   <a href="https://paypal.me/diegogplatac?country.x=MX&locale.x=es_XC">
     <img src="https://res.cloudinary.com/dzappyypg/image/upload/v1671997877/other_stuff/paypal_t9ko5x.png" width="50" height="50">
   </a>
