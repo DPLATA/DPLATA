@@ -43,6 +43,13 @@ Here you will find information about me, code repos for present and past project
       <td><img alt="Issues" src="https://img.shields.io/github/issues/DPLATA/mexdata_api?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DPLATA/mexdata_api?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/DPLATA/rayshader_maps"><b>R maps</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DPLATA/rayshader_maps?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DPLATA/rayshader_maps?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/DPLATA/rayshader_maps?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DPLATA/rayshader_maps?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
@@ -65,11 +72,11 @@ Here you will find information about me, code repos for present and past project
 </table>
 
 ## Latest blog posts
-
+<!--
 ## My stats
 
 [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DPLATA)](https://github.com/DPLATA/github-readme-stats)
-
+-->
 ## Where to find me
 
 ## You like what I do? Consider buying me a coffee, I'll appreciate it 🤜🏼🤛🏼
