@@ -28,6 +28,7 @@ Here you will find information about me, code repos for present and past project
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
+      <td><b>🔗 Link</b></td>
     </tr>
   </thead>
   <tbody>
@@ -37,6 +38,7 @@ Here you will find information about me, code repos for present and past project
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DPLATA/mexdata?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/DPLATA/mexdata?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DPLATA/mexdata?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://eldatomx.com"><b>El dato MX</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/DPLATA/mexdata_api"><b>Mex data visualizer API</b></a></td>
