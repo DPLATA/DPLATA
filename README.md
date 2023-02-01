@@ -54,6 +54,13 @@ Here you will find information about me, code repos for present and past project
       <td><img alt="Issues" src="https://img.shields.io/github/issues/DPLATA/rayshader_maps?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DPLATA/rayshader_maps?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/DPLATA/rayshader_maps"><b>Scrapy custom scarper tool</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DPLATA/scrapy?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DPLATA/scrapy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/DPLATA/scrapy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DPLATA/scrapy?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
