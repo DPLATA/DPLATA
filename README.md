@@ -23,39 +23,42 @@ Here you will find information about me, code repos for present and past project
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>🔗 Projects</b></td>
+      <td><b>🫙 Repo</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
-      <td><b>🔗 Link</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DPLATA/mexdata"><b>Mex data visualizer</b></a></td>
+      <td><b><a href="https://eldatomx.com">El dato MX</a></b></td>
+      <td><b><a href="https://github.com/DPLATA/mexdata">Repo</a></b></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DPLATA/mexdata?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DPLATA/mexdata?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/DPLATA/mexdata?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DPLATA/mexdata?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://eldatomx.com"><b>El dato MX</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DPLATA/mexdata_api"><b>Mex data visualizer API</b></a></td>
+      <td><b>El dato MX API</b></td>
+      <td><b><a href="https://github.com/DPLATA/mexdata_api">Repo</a></b></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DPLATA/mexdata_api?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DPLATA/mexdata_api?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/DPLATA/mexdata_api?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DPLATA/mexdata_api?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DPLATA/rayshader_maps"><b>R maps</b></a></td>
+      <td><b>Mexico rayshader maps</b></td>
+      <td><b><a href="https://github.com/DPLATA/rayshader_maps">Repo</a></b></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DPLATA/rayshader_maps?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DPLATA/rayshader_maps?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/DPLATA/rayshader_maps?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DPLATA/rayshader_maps?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DPLATA/rayshader_maps"><b>Scrapy custom scraper tool</b></a></td>
+      <td><b>Scrapy custom scraper tool</b></td>
+      <td><a href="https://github.com/DPLATA/scrapy"><b>Repo</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DPLATA/scrapy?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DPLATA/scrapy?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/DPLATA/scrapy?style=flat-square&labelColor=343b41"/></td>
