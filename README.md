@@ -2,7 +2,7 @@
 
 <!--I'm from México and you can find me on , or on  FREELANCE SOFTWARE ENGINEER CONTACT ME IF YOU HAVE ANY WORK √(ALT + V).-->
 
-Here you will find information about me, code repos for present and past projects, blog posts and some other stuff. Most of the things you'll find here are ML, testing, DevOps and OSS related which are topics I am passionate about. Have a look!
+<!--Here you will find information about me, code repos for present and past projects, blog posts and some other stuff. Most of the things you'll find here are ML, testing, DevOps and OSS related which are topics I am passionate about. Have a look!-->
 
 ## Tech stack
 
@@ -10,17 +10,17 @@ Here you will find information about me, code repos for present and past project
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50">
+<!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50"-->
+<!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"-->
+<!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"-->
+<!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="50" height="50">
+<!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="50" height="50"-->
 </p>
 
-## Projects currently working on
+<!--## Projects currently working on-->
 
-<table>
+<!--table>
   <thead align="center">
     <tr border: none;>
       <td><b>🔗 Projects</b></td>
@@ -65,11 +65,11 @@ Here you will find information about me, code repos for present and past project
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DPLATA/scrapy?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
+</table-->
 
-## Open source projects
+<!--## Open source projects-->
 
-<table>
+<!--table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -83,16 +83,17 @@ Here you will find information about me, code repos for present and past project
     <tr>
     </tr>
   </tbody>
-</table>
+</table-->
 
-## Latest blog posts
+<!--## Latest blog posts-->
 <!--
 ## My stats
 
 [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DPLATA)](https://github.com/DPLATA/github-readme-stats)
 -->
-## Where to find me
+<!--## Where to find me-->
 
+<!--
 ## You like what I do? Consider buying me a coffee, I'll appreciate it 🤜🏼🤛🏼
 
 <p align="center">
@@ -100,7 +101,7 @@ Here you will find information about me, code repos for present and past project
     <img src="https://res.cloudinary.com/dzappyypg/image/upload/v1671997877/other_stuff/paypal_t9ko5x.png" width="50" height="50">
   </a>
 </p>
-
+-->
 
 <!--
 [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DPLATA)](https://github.com/DPLATA/github-readme-stats)
