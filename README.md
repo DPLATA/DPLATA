@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/DPLATA/DPLATA/blob/main/waving_hand.gif" width="30px">, I'm silverwoi
+# Hi there <img src="https://github.com/DPLATA/DPLATA/blob/main/waving_hand.gif" width="30px"> I'm silverwoi
 
 <!--I'm from México and you can find me on , or on  FREELANCE SOFTWARE ENGINEER CONTACT ME IF YOU HAVE ANY WORK √(ALT + V).-->
 
