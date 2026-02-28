@@ -1,20 +1,20 @@
-# Hi there <img src="https://github.com/DPLATA/DPLATA/blob/main/waving_hand.gif" width="30px">, I'm Diego
+# Hi there <img src="https://github.com/DPLATA/DPLATA/blob/main/waving_hand.gif" width="30px">, I'm silverwoi
 
 <!--I'm from México and you can find me on , or on  FREELANCE SOFTWARE ENGINEER CONTACT ME IF YOU HAVE ANY WORK √(ALT + V).-->
 
 <!--Here you will find information about me, code repos for present and past projects, blog posts and some other stuff. Most of the things you'll find here are ML, testing, DevOps and OSS related which are topics I am passionate about. Have a look!-->
 
-## Tech stack
+<!-- ## Tech stack -->
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50">-->
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50">-->  
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">-->
 <!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50"-->
 <!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"-->
 <!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"-->
 <!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" height="50">
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" height="50">-->
 <!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="50" height="50"-->
 </p>
 
