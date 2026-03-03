@@ -131,3 +131,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 -->
+
+Software engineer. I lead two small engineering teams, design systems, and break prod occasionally.
+
+I am currently building sentinel — an agentic reliability & incident response platform, in public [here](https://theclouddive.com/s/sentinel).
+
+**find me elsewhere:**
+
+- 🌐 [silverboi.me](https://silverboi.me)
+- 🦋 [@silverwoi.bsky.social](https://bsky.app/profile/silverwoi.bsky.social)
